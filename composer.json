@@ -1,0 +1,16 @@
+{
+    "name": "nshid/webgis-php",
+    "require": {
+        "joshcam/mysqli-database-class": "dev-master",
+        "josantonius/session": "^2.0",
+        "verot/class.upload.php": "^2.1",
+        "phpoffice/phpspreadsheet": "^2.2"
+    },
+    "license": "tidak ada",
+    "authors": [
+        {
+            "name": "Novri Rizki Akbar",
+            "email": "novri.170170120@mhs.unimal.ac.id"
+        }
+    ]
+}
